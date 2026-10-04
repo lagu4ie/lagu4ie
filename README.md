@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Egor Androsov 👋
 
-<!--
-**lagu4ie/lagu4ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Belmont Abbey College with an interest in software development and web development. I enjoy learning new technologies and building projects that help me improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently have experience with JavaScript, React, HTML, CSS, Git, GitHub, and VS Code. I am continuing to expand my skills through college courses and personal projects.
+
+## 🛠️ Skills
+
+- JavaScript
+- React
+- HTML
+- CSS
+- Git & GitHub
+- VS Code
+
+## 💻 Featured Projects
+
+### ComponentCorner
+A React project where I practiced creating reusable components and styling them with individual CSS files.
+
+**Technologies:** React, JavaScript, CSS
+
+[View Project](https://github.com/lagu4ie/ComponentCorner)
+
+### ComponentCorner Cart
+A React project that builds on ComponentCorner by adding shopping cart functionality and working with React state.
+
+**Technologies:** React, JavaScript, CSS
+
+[View Project](https://github.com/lagu4ie/ComponentCorner-Cart)
+
+### ComponentCorner Router
+A multi-page React application where I practiced React Router, navigation, routes, and dynamic URL parameters.
+
+**Technologies:** React, React Router, JavaScript, CSS
+
+[View Project](https://github.com/lagu4ie/ComponentCorner-Router)
+
+## 📚 Currently Learning
+
+I'm currently improving my React and front-end development skills while studying Computer Science at Belmont Abbey College.
+
+## 📫 Connect With Me
+
+- GitHub: [lagu4ie](https://github.com/lagu4ie)
